@@ -8,4 +8,4 @@ Raw CSVs not included due to size constraints. File description is below.
 * **recommendation.ipynb**: implements a content-based recommender system
 
 Other important links:
-* [!Intake Survey](https://forms.gle/TmWuWb6TuArVTLDj7)
+* [Intake Survey](https://forms.gle/TmWuWb6TuArVTLDj7)
