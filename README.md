@@ -1,5 +1,7 @@
 # apartmentrankers
 
+DEMO: http://apartmentranker.herokuapp.com/
+
 Raw CSVs not included due to size constraints. File description is below.
 
 * **scraper.ipynb**: scrapes pertinent information from html_files and returns a .csv for manipulation.
@@ -13,3 +15,5 @@ Raw CSVs not included due to size constraints. File description is below.
 
 Other important links:
 * [Intake Survey  - DEPRECATED](https://forms.gle/TmWuWb6TuArVTLDj7)
+
+
