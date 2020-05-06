@@ -17,7 +17,6 @@
 * geopandas
 * tqdm
 * BeautifulSoup
-* urllib
 * re
 
 ### File directory
