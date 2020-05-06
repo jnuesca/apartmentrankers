@@ -1,6 +1,8 @@
 # apartmentrankers
 
 DEMO: http://apartmentranker.herokuapp.com/
+* _reset link: apartmentranker.herokuapp.com/reset/_
+SLIDES: [Google Slides - contact for permission](https://docs.google.com/presentation/d/1vpxccPpUaReHke6-mVpZjPjLkYvdAIEnlHFjYCKY5mg/edit#slide=id.g773400c8be_2_132)
 
 Raw CSVs not included due to size constraints. File description is below.
 
