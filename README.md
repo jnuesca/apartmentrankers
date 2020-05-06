@@ -35,7 +35,7 @@
 
 * [Intake Survey  - DEPRECATED](https://forms.gle/TmWuWb6TuArVTLDj7)
 * [Google Slides - contact for permission if unable to access](https://docs.google.com/presentation/d/1vpxccPpUaReHke6-mVpZjPjLkYvdAIEnlHFjYCKY5mg/edit#slide=id.g773400c8be_2_132)
-* [Live Demo](http://apartmentranker.herokuapp.com/)
-* [Link to reset global dislikes storage (will be fixed in later release](http://apartmentranker.herokuapp.com/reset/)
+* [Live ApartmentRanker Demo](http://apartmentranker.herokuapp.com/)
+* [Link to reset global dislikes storage (will be fixed in later release\)](http://apartmentranker.herokuapp.com/reset/)
 
 
